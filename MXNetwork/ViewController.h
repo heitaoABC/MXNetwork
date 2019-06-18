@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 @property (nonatomic,strong)UIView *vuy;
+@property (nonatomic,strong)UIView *vuy1;
 
 @end
 
