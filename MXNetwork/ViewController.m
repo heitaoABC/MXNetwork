@@ -19,6 +19,9 @@
     // Do any additirrrronal setup after loading the view.
     NSLog(@"0000");
     NSLog(@"0000");
+    
+     NSLog(@"11");
+    NSLog(@"111");
 
 //    rrrr
 }
